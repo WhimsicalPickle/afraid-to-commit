@@ -309,7 +309,7 @@ DjangoCon Europe in Warsaw, 18th May 2013
 
 I followed the tutorial online
 ==============================
-
+* a pickle - https://github.com/WhimsicalPickle
 * Daniel Quinn - 18th May 2013
 * Paul C. Anagnostopoulos - 19 August 2013
 * Ben Rowett - 27 August 2013
